@@ -10,12 +10,11 @@ Used Versions:
 - node 15.6.0
 - npm 7.4.0
 
-## shell history
+## How i installed this app (bash history)
 
-npx create-react-app all_about_clubs --template typescript --use-npm
-npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
-npm install @craco/craco
-npx tailwindcss init
-npm install -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react prettier eslint-config-prettier eslint-plugin-prettier
-
-...
+- `npx create-react-app all_about_clubs --template typescript --use-npm`
+- `npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9`
+- `npm install @craco/craco`
+- `npx tailwindcss init`
+- `npm install -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react prettier eslint-config-prettier eslint-plugin-prettier`
+- ...
