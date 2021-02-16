@@ -5,6 +5,11 @@
 3. `npm install`
 4. `npm run`
 
+Used Versions:
+
+- node 15.6.0
+- npm 7.4.0
+
 ## shell history
 
 npx create-react-app all_about_clubs --template typescript --use-npm
